@@ -1,6 +1,6 @@
 # README
 
-# Clone All Code
+# Clone All Code | [中文README](https://github.com/leihaowen/clone_all_code/blob/main/README_CN.md)
 
 This is a shell script that helps you to clone the code, from gitlab, recursively and maintain the project module structure.
 
